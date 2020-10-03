@@ -1,0 +1,12 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# misc
+out/
+.DS_Store
+.idea
+.subl
+.vscode
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*.bat
